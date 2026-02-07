@@ -161,7 +161,7 @@ Long-term focus on:
 ## 📫 Contact
 
 📧 **ouailelonsri@gmail.com**  
-💼 LinkedIn: *(add link)*  
+💼 LinkedIn: https://www.linkedin.com/in/ouail-el-onsri-984a76393/
 
 ---
 
