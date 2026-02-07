@@ -22,7 +22,7 @@
 👤 **Ouail El Onsri**  
 🎓 **Software Engineering Student @ 1337 (42 Network)**  
 🛡️ **Cybersecurity & Penetration Testing (self-directed)**  
-🌍 **Morocco** | Open to **Germany & EU**
+🌍 **Morocco** 
 
 I build **low-level software**, analyze **how systems fail**, and study **how attackers exploit those failures**.
 
