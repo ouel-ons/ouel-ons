@@ -2,7 +2,7 @@
 
 🎓 **Software Engineering student @ 1337 (42 Network)**  
 🛡️ **Cybersecurity & Penetration Testing (self-directed)**  
-🌍 Morocco | Open to Germany & EU
+🌍 Morocco
 
 <p>
   <img src="https://img.shields.io/badge/42-1337-black?style=flat-square&logo=42" />
