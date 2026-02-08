@@ -46,4 +46,4 @@ I like understanding how systems behave at runtime, how vulnerabilities emerge, 
 - Training independently in **cybersecurity & pentesting**
 - Preparing for **Network+ · Security+ · eJPT** *(OSCP long-term)*
 
-📫 **Contact:** ouailelonsri@gmail.com
+📫 **Contact:** elonsriouail1@gmail.com
