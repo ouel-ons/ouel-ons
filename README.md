@@ -39,6 +39,7 @@ I like understanding how systems behave at runtime, how vulnerabilities emerge, 
   <img height="20" src="https://skillicons.dev/icons?i=c,python,bash,linux,git&theme=dark" />
 </p>
 
+************************
 ---
 
 ## 🎯 Currently
