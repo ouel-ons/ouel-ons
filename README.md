@@ -48,3 +48,5 @@ I like understanding how systems behave at runtime, how vulnerabilities emerge, 
 - Preparing for **Network+ · Security+ · eJPT** *(OSCP long-term)*
 
 📫 **Contact:** elonsriouail1@gmail.com
+
+
