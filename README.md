@@ -15,7 +15,7 @@
 
 ---
 
-# Hi, I’m Ouail (ouelnyx) 👋
+# Hi, I’m Ouail (ouel-ons) 👋
 
 🎓 **Software Engineering student @ 1337 (42 Network)**  
 🛡️ **Cybersecurity & Penetration Testing (self-directed)**  
