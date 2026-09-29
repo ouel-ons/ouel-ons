@@ -17,7 +17,7 @@
 
 # Hi, I’m Ouail (ouel-ons) 👋
 
-🎓 **Software Engineering student @ 1337 (42 Network)**  
+🎓 **Computer Science @1337-UM6P | part of 42 Network | Mathematics & Computer Science (MI) @ FS Tétouan**  
 🛡️ **Cybersecurity & Penetration Testing (self-directed)**  
 🌍 Morocco
 
